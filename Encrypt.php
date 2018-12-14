@@ -1,5 +1,4 @@
 <?php
-define('URL', 'https://bress-juan.carians.fr/api/apiapi.php');
 define('CRYPTKEY','rx4/YK51nJo7LuRnZAz/jpXZbCunkNplneL6ugkBs5g=');
 define('CRYPTALGO','aes-256-cbc');
 
